@@ -1,0 +1,8 @@
+trump_button = int(input())
+kim_button = int(input())
+if trump_button > kim_button:
+    print("MAGA!")
+elif kim_button > trump_button:
+    print("FAKE NEWS!")
+else:
+    print("WORLD WAR 3!")
