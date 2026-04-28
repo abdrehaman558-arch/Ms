@@ -1,0 +1,9 @@
+
+y=float(input())
+if y>=0:
+    n=y+0.5
+else:
+    n=y-0.5
+z=int(n)
+print(z)
+    
